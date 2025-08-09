@@ -1,8 +1,8 @@
 {
     "LOADER": [
         {
-            "folder_name": "loader",
-            "loader_version": 5
+            "folder_name": "lib",
+            "loader_version": 1
         }
     ]
 }
