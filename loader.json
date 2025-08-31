@@ -1,8 +1,8 @@
 {
     "LOADER": [
         {
-            "folder_name": "lib",
-            "loader_version": 2
+            "folder_name": "inj",
+            "loader_version": 1
         }
     ]
 }
