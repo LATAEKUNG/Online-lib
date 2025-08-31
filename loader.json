@@ -2,7 +2,7 @@
     "LOADER": [
         {
             "folder_name": "lib",
-            "loader_version": 1
+            "loader_version": 2
         }
     ]
 }
