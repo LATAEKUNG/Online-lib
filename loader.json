@@ -1,7 +1,7 @@
 {
     "LOADER": [
         {
-            "folder_name": "inj",
+            "folder_name": "inject",
             "loader_version": 1
         }
     ]
