@@ -2,7 +2,7 @@
     "LIB": [
         {
             "folder_name": "inject",
-            "loader_version": 2
+            "loader_version": 5
         }
     ]
 }
