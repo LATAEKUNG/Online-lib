@@ -1,5 +1,5 @@
 {
-    "LOADER": [
+    "LIB": [
         {
             "folder_name": "inject",
             "loader_version": 2
