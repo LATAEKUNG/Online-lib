@@ -1,8 +1,9 @@
 {
-    "LIB": [
-        {
-            "folder_name": "inject",
-            "loader_version": 2
-        }
-    ]
+  "libsinject": [
+    {
+      "loader_version": 2,
+      "folder_name": "libsss",
+      "changelog": "--> new features\n- Fixed bugs\n- Improved performance"
+    }
+  ]
 }
