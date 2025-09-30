@@ -1,9 +1,0 @@
-{
-  "libsinject": [
-    {
-      "loader_version": 1,
-      "folder_name": "libsss",
-      "changelog": "--> new features\n- Fixed bugs\n- Improved performance"
-    }
-  ]
-}
